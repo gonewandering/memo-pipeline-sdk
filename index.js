@@ -1,3 +1,1 @@
-const Pipeline = require('./lib/Pipeline')
-
-module.exports = Pipeline
+module.exports = require('./lib/Pipeline')

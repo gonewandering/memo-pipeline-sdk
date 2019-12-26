@@ -1,4 +1,4 @@
 module.exports = {
-  scrape: require('./scrape'),
-  content: require('./content')
+  request: require('./request'),
+  test: require('./test')
 }
