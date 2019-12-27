@@ -10,14 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/firestore": "^3.1.0",
     "@google-cloud/pubsub": "^1.2.0",
-    "cheerio": "^1.0.0-rc.3",
     "mocha": "^6.2.2",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
     "sha.js": "^2.4.11",
-    "underscore": "^1.9.1",
-    "uuid": "^3.3.3"
+    "underscore": "^1.9.1"
   }
 }
