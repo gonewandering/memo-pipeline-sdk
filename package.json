@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
+    "preversion": "mocha",
     "postversion": "git push && git push --tags"
   },
   "author": "",
